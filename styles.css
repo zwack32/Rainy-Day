@@ -1,0 +1,21 @@
+body {
+    background: #bfbfbf;
+    color: #7363bf;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    border: 5px #7363bf dashed;
+    height: 500px;
+}
+
+h1 {
+    display: flex;
+    justify-content: space-around;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+}
